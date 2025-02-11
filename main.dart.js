@@ -67022,7 +67022,7 @@ m=A.hz(n.a+"/"+b)
 A.lF(m)
 k=t.N
 s=7
-return A.a8(n.b.rQ("GET",m,A.aG(["access-control-allow-origin","*","access-control-allow-credentials","true"],k,k)),$async$cU)
+return A.a8(n.b.rQ("GET",m,A.aG(["access-control-allow-origin","lynniefall.github.io","access-control-allow-credentials","true"],k,k)),$async$cU)
 case 7:l=d
 q=l
 s=1
